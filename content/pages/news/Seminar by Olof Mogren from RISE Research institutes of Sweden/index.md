@@ -12,6 +12,9 @@ Abstract: "Learned continuous embeddings for language units was some of the firs
 In 2016, Bolukbasi, et.al., presented their paper "Man is to Computer Programmer as Woman is to Homemaker? Debiasing Word Embeddings", shedding lights on some of the gender bias that was available in trained word embeddings at the time. Datasets obviously encode the social bias that surrounds us, and models trained on that data may expose the bias in their decisions. Similarly, learned representations may encode sensitive details about individuals in the datasets; allowing the disclosure of such information through distributed models or their outputs. All of these aspects are crucial in many application areas, not the least in the processing of medical texts.
 
 Some solutions have been proposed to limit the expression of social bias in NLP systems. These include techniques such as data augmentation, representation calibration, and adversarial learning. Similar approaches may also be relevant for privacy and disentangled representations. In this talk, we'll discuss some of these issues, and go through some of the solutions that have been proposed recently to limit bias and to enhance privacy in various settings."
+
+Bio: Olof Mogren, PhD, is head of deep learning research at RISE. Research interests include representation learning, uncertainty quantification, and modelling the world around us, in application domains such as analysis of medical texts, image processing, and sensor modelling.
+
  
 Time: 13.15-15.00
 
