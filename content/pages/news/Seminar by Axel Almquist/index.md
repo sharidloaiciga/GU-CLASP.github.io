@@ -5,7 +5,7 @@ bannerImage: "meeting-311355_1280.png"
 ---
 Cordially welcome to a seminar by Axel Almquist from the University of Gothenburg on Wednesday 3rd of February, at 13:15 online via Zoom. 
 
-Title: "TBA".
+Title: "HotAM: an Argument Mining Framework"
 
 Abstract: Argument Mining is a complex task, and to solve it, one has to create solutions that deal with several different subtasks. Existing research is comprised of a few end-to-end attempts as well as combinations of solutions to one or more of the subtasks. To determine which is the best end-to-end solution, one must combine models solving individual or combinations of subtasks with one another.  As I set out, I found myself with code in different languages and different code bases. I saw an opportunity to unify the existing research into a single Python framework not only to create a better setting for experiments but also to make research in Argument Mining easier and more accessible.
 
