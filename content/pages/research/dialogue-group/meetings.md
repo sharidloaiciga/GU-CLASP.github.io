@@ -10,17 +10,25 @@ Meetings: Alternate Fridays (odd weeks), 10.15-12.00.
 
 Currently meeting remotely by video conference.
 
+### Upocoming session:
+
+- **16 February 2021 \-- [13h-15h]**
+- Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. **(Last two lectures; Led by Bill)**
+
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
 
 - Venhuizen, Noortje J., et al. "Expectation-Based Comprehension: Modeling the Interaction of World Knowledge and Linguistic Experience." Discourse Processes, vol. 56, no. 3, Apr. 2019, pp. 229--55. (Suggested by Robin)
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
-- Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. (Suggested by Bill)
 - Pustejovsky, J. and Krishnaswamy, N. "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 
 ### Previous sessions:
+
+#### 22 January 2021 \-- [13h-15h]
+- Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. (First three lectures; Led by Bill)
+
 
 ##### 11 December 2020 \-- [13h-15h]
 
