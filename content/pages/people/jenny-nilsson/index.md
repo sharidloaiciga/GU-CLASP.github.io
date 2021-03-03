@@ -7,4 +7,4 @@ I am the stand-in administrator for Susanna Myyry. My tasks involve helping out 
 
 Please do not hesitate to contact me if you need assistance in any of the areas listed above!
 
-You can find my contact information at the university [webpage] (https://www.gu.se/en/about/find-staff/jennynilsson4)
+You can find my contact information at the university website https://www.gu.se/en/about/find-staff/jennynilsson4
