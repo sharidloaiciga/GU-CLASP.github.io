@@ -14,6 +14,7 @@ Group members:
 
 -	Stergios Chatzikyriakidis
 -	Jean-Philippe Bernardy
+- Ellen Breitholtz
 - Julian Grove
 - Shalom Lappin
 -	Robin Cooper

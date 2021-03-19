@@ -10,6 +10,7 @@ hideInSearchResults: true
 
 ## BOOKS
 
+-   Shalom Lappin (2021), [*Deep Learning and Linguistic Representation*](https://www.amazon.co.uk/Learning-Linguistic-Representation-Shalom-Lappin/dp/0367648741), CRC Press, Taylor and Francis, Oxford.
 -   Alexander Clark and Shalom Lappin (2011), [*Linguistic Nativism and
     the Poverty of the
     Stimulus*](http://www.amazon.com/Linguistic-Nativism-Poverty-Stimulus-Alexander/dp/1405187840/ref=sr_1_1?ie=UTF8&s=books&qid=1294746458&sr=1-1),

@@ -2,7 +2,7 @@
 title: "Temporary Administrator"
 date: 2021-01-26
 MDFileCustomID: "recruitment-Administrator-2021"
-expired: false
+expired: true
 ---
 
 ###### Anställningsform: Tidsbegränsad anställning, vikariat, tom 2021-08-31
