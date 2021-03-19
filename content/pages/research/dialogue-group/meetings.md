@@ -12,9 +12,6 @@ Currently meeting remotely by video conference.
 
 ### Upocoming session:
 
-- **16 February 2021 \-- [13h-15h]**
-- Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. **(Last two lectures; Led by Bill)**
-
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
@@ -25,6 +22,16 @@ Currently meeting remotely by video conference.
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 
 ### Previous sessions:
+
+#### 19 March 2021 \-- [13h-15h]
+- Weichold, M., & Thonhauser, G. (2020). [Collective Affordances](https://doi.org/10.1080/10407413.2019.1695211). Ecological Psychology, 32(1), 1–24. (Led by Eleni)
+
+#### 5 March, 2021 \-- [13h-15h]
+- Walton, D. (2001). [Persuasive Definitions and Public Policy Arguments](https://doi.org/10.1080/00028533.2001.11951664). Argumentation and Advocacy, 37(3), 117–132. (Led by Ellen)
+
+
+#### 16 February 2021 \-- [13h-15h]
+- Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. (**Last two lectures**; Led by Bill)
 
 #### 22 January 2021 \-- [13h-15h]
 - Ducrot, O., & Žagar, I. Ž. (2009). Slovenian lectures introduction into argumentative semantics. Pedagoški inštitut. (First three lectures; Led by Bill)
