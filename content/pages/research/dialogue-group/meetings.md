@@ -12,6 +12,9 @@ Currently meeting remotely by video conference.
 
 ### Upocoming session:
 
+#### 30 April 2021 \-- [13h-15h]
+Eve Clark. A Gradualist View of Word Meaning in Acquisition and Use (Forthcoming) (suggested by Robin)
+
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
