@@ -23,6 +23,9 @@ Currently meeting remotely by video conference.
 
 ### Previous sessions:
 
+#### 16 April 2021 \-- [10h-12h]
+Fabrizio Cariani & Lance J. Rips, Experimenting with (Conditional) Perfection (Forthcoming) (Lead by Ellen)
+
 #### 19 March 2021 \-- [13h-15h]
 - Weichold, M., & Thonhauser, G. (2020). [Collective Affordances](https://doi.org/10.1080/10407413.2019.1695211). Ecological Psychology, 32(1), 1–24. (Led by Eleni)
 
