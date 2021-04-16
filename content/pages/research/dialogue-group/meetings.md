@@ -20,6 +20,10 @@ Currently meeting remotely by video conference.
 - Bare plurals; possibly: Carlson, Greg N. A Unified Analysis of the English Bare Plural in *Formal Semantics: The Essential Readings.* 2008. (Suggested by Ellen)
 - Pustejovsky, J. and Krishnaswamy, N. "Embodied Human Computer Interaction" Ms. (Suggested by Eleni)
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
+- Pöldvere, N. (2019). [What’s in a dialogue? : On the dynamics of meaning-making in English conversation.](http://lup.lub.lu.se/record/3004710c-5d08-4069-9dc9-80544f9c3b49) Thesis/doccomp, Lund University. (suggested by Robin)
+- Sikos L, Venhuizen NJ, Drenhaus H, Crocker MW (2021) [Reevaluating pragmatic reasoning in language games.](https://doi.org/10.1371/journal.pone.0248388) PLoS ONE 16(3): e0248388. (suggested by Bill)
+
+
 
 ### Previous sessions:
 
