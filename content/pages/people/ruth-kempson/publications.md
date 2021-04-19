@@ -6,7 +6,9 @@ profileImage: "Ruth_2021.jpg"
 hideInSearchResults: true
 ---
 
-# Books
+# Publications
+
+## Books
 
 Cann, R. Kempson, R. & Marten L. (2006)  The Dynamics of Language: An Introduction. Elsevier. 
 
@@ -18,7 +20,7 @@ Kempson, R. (1977) Semantic Theory. Cambridge University Press.
 
 Kempson, R.(1975) Presupposition and the Delimitation of Semantics. Cambridge University Press.
 
-# Edited Books 
+## Edited Books 
 
 Orwin, M, Howes, C. & Kempson, R. (eds.) (2013) Language, Music and Interaction. College Publications.
 
@@ -30,7 +32,7 @@ Cooper, R, & Kempson, R.(eds) (2008) Language in Flux: Language Change, Variatio
 
 Kempson, R. (ed.) (1988 ) Mental Representations: The Interface between Language and Reality. Cambridge University Press. 
 
-# Articles since 2007
+## Articles since 2007
 
 Gregoromichelaki, Mills, Eshghi, Howes, Chatzikyriakidis, Purver, Kempson, Cann., Healey,   (2021) Completability vs (in)completeness. Acta Linguistics Hafniensia 
 
