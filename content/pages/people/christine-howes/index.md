@@ -5,4 +5,4 @@ title: "Senior Lecturer in Computational Linguistics (Docent in Computational Li
 profileImage: "Chris.jpg"
 ---
 
-My main interest is linguistic interaction... For more info, see www.christinehowes.com
+My main interest is linguistic interaction... For more info, see [www.christinehowes.com](http://www.christinehowes.com)
