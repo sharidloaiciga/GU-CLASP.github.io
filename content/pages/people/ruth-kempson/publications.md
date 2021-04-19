@@ -1,3 +1,10 @@
+---
+name: "Ruth Kempson"
+role: 3 
+title: "Associate Researcher "
+profileImage: "Ruth_2021.jpg"
+---
+
 # Books
 
 Cann, R. Kempson, R. & Marten L. (2006)  The Dynamics of Language: An Introduction. Elsevier. 
