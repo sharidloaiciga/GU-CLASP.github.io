@@ -1,6 +1,6 @@
 ---
 name: "Ruth Kempson"
-role: 3 
+role: 0 
 title: "Associate Researcher "
 profileImage: "Ruth_2021.jpg"
 ---
