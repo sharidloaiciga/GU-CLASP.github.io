@@ -6,7 +6,7 @@ profileImage: "Ruth_2021.jpg"
 hideInSearchResults: true
 ---
 
-# Recent Publications 
+## Recent Publications 
 
 Purver, M., Sadrzadeh, M., Kempson, R., Wijnholds, G. & Hough, J. (2021). Incremental Composition in Distributional Semantics. Journal of Logic, Language and Information, 
 
