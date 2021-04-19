@@ -1,8 +1,9 @@
 ---
 name: "Ruth Kempson"
-role: 0 
+role: 3 
 title: "Associate Researcher "
 profileImage: "Ruth_2021.jpg"
+hideInSearchResults: true
 ---
 
 # Brief Biography
