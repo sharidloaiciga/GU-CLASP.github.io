@@ -1,4 +1,11 @@
-#Brief Biography
+---
+name: "Ruth Kempson"
+role: 3 
+title: "Associate Researcher "
+profileImage: "Ruth_2021.jpg"
+---
+
+# Brief Biography
 
 Ruth Kempson Fellow of British Academy, Member of Academia Europaea
 
