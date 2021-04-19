@@ -72,7 +72,7 @@ Kempson, R., Cann, R., Eshghi, A., Gregoromichelaki, E. & Purver, M (2015). Elli
 
 Gregoromichelaki, E. and Kempson, R. (2015) Joint utterances and the (Split-)Turn Taking Puzzle.In: Jacob L. Mey & Alessandro Capone (eds.) Interdisciplinary studies in Pragmatics, Culture and Society Heidelberg, Springer.
 
-Kempson, Cann & Chatzikyriakidis, (2015) Language as mechanisms for interaction: how we do what we do (commentary on Christiansen & Chater The Now-or-Never Bottleneck. Brain & Behavioral Science
+Kempson, R. Cann, R. & Chatzikyriakidis, S. (2015) Language as mechanisms for interaction: Syntax as procedures for online interactive meaning building (commentary on Christiansen & Chater The Now-or-Never Bottleneck). Brain & Behavioral Science, 39, 35-36
 
 Chatzikyriakidis, S., Gregoromichelaki, E., and Kempson, R. (2015) Language as a set of
 mechanisms for interaction.  In R. Kempson, Robin Cooper, Matthew Purver (eds.) Proceedings of IWCS 2015, Queen Mary University of London, April 2015.
