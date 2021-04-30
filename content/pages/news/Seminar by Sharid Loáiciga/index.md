@@ -1,5 +1,5 @@
 ---
-title: "Seminar by Sharid Loáiciga"
+title: "Seminar by Sharid Loáiciga from University of Potsdam"
 date: 2021-08-25
 bannerImage: "meeting-311355_1280.png"
 ---
