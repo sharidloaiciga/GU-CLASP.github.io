@@ -9,4 +9,4 @@ Reasoning and Interaction (ReInAct) is a conference organized by the Centre for 
 
 ReInAct will bring together researchers interested in computationally relevant approaches to reasoning and interaction in natural language. ReInAct is open to Machine Learning, Symbolic and Experimental approaches, as well as combinations of these. For more info visit: https://sites.google.com/view/reinact2021/home
 
-![ReInAct](./reinact)
+![ReInAct](./reinact.jpeg)
