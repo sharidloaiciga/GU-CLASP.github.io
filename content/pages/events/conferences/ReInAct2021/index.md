@@ -1,6 +1,6 @@
 ---
 title: "Reasoning and Interaction Conference"
-date: 2021-10-4
+date: 2021-10-04
 venue: "Hybrid (Gothenburg University and online)"
 duration: "2 days"
 ---
