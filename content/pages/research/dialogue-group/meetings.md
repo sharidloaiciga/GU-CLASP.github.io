@@ -12,8 +12,9 @@ Currently meeting remotely by video conference.
 
 ### Upocoming session:
 
-#### 30 April 2021 \-- [13h-15h]
-Eve Clark. A Gradualist View of Word Meaning in Acquisition and Use (Forthcoming) (suggested by Robin)
+#### 28 May 2021 \-- [10h-12h]
+Benotti, L., & Blackburn, P. (2021). [Grounding as a Collaborative Process](https://www.aclweb.org/anthology/2021.eacl-main.41). Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, 515–531. (Led Robin & Bill)
+
 
 ### Future paper suggestions:
 
@@ -25,12 +26,14 @@ Eve Clark. A Gradualist View of Word Meaning in Acquisition and Use (Forthcoming
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 - Pöldvere, N. (2019). [What’s in a dialogue? : On the dynamics of meaning-making in English conversation.](http://lup.lub.lu.se/record/3004710c-5d08-4069-9dc9-80544f9c3b49) Thesis/doccomp, Lund University. (suggested by Robin)
 - Sikos L, Venhuizen NJ, Drenhaus H, Crocker MW (2021) [Reevaluating pragmatic reasoning in language games.](https://doi.org/10.1371/journal.pone.0248388) PLoS ONE 16(3): e0248388. (suggested by Bill)
-- Benotti, L., & Blackburn, P. (2021). [Grounding as a Collaborative Process](https://www.aclweb.org/anthology/2021.eacl-main.41). Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, 515–531. (suggested by Bill)
 
 
 
 
 ### Previous sessions:
+
+#### 30 April 2021 \-- [13h-15h]
+A manuscript about meaning acquisition, in preparation. (Led by Robin)
 
 #### 16 April 2021 \-- [10h-12h]
 Fabrizio Cariani & Lance J. Rips, Experimenting with (Conditional) Perfection (Forthcoming) (Lead by Ellen)
