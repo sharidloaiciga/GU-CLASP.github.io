@@ -11,7 +11,7 @@ hideInSearchResults: true
 Jey Han Lau, Carlos Armendariz, Shalom Lappin, Matthew Purver, and Chang
 Shu (2020), \"[How Furiously Can Colorless Green Ideas Sleep? Sentence
 Acceptability in
-Context](lau-armandariz-lappin-purver-shu_tacl20.pdf)\", * Transactions
+Context](lau-armandariz-lappin-purver-shu_tacl20.pdf)\", *Transactions
 of the Association for Computational Linguistics* 8, pp.  296--310.
 
 Adam Ek, Jean-Philippe Bernardy, and Shalom Lappin (2019), [Language
