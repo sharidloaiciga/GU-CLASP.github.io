@@ -12,10 +12,6 @@ Currently meeting remotely by video conference.
 
 ### Upocoming session:
 
-#### 28 May 2021 \-- [10h-12h]
-Benotti, L., & Blackburn, P. (2021). [Grounding as a Collaborative Process](https://www.aclweb.org/anthology/2021.eacl-main.41). Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, 515–531. (Led Robin & Bill)
-
-
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
@@ -28,9 +24,16 @@ Benotti, L., & Blackburn, P. (2021). [Grounding as a Collaborative Process](http
 - Sikos L, Venhuizen NJ, Drenhaus H, Crocker MW (2021) [Reevaluating pragmatic reasoning in language games.](https://doi.org/10.1371/journal.pone.0248388) PLoS ONE 16(3): e0248388. (suggested by Bill)
 
 
-
-
 ### Previous sessions:
+
+#### 19 June 2021 \-- [13h-14h]
+Hough, J., Jamone, L., Schlangen, D., Walck, G., & Haschke, R. (n.d.). A Types-As-Classiﬁers Approach to Human-Robot Interaction for Continuous Structured State Classiﬁcation. 13.
+
+#### 10 June 2021 \-- [10h-12h]
+Hough, J., Jamone, L., Schlangen, D., Walck, G., & Haschke, R. (n.d.). A Types-As-Classiﬁers Approach to Human-Robot Interaction for Continuous Structured State Classiﬁcation. 13.
+
+#### 28 May 2021 \-- [10h-12h]
+Benotti, L., & Blackburn, P. (2021). [Grounding as a Collaborative Process](https://www.aclweb.org/anthology/2021.eacl-main.41). Proceedings of the 16th Conference of the European Chapter of the Association for Computational Linguistics: Main Volume, 515–531. (Led Robin & Bill)
 
 #### 30 April 2021 \-- [13h-15h]
 A manuscript about meaning acquisition, in preparation. (Led by Robin)
