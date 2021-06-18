@@ -22,7 +22,9 @@ Currently meeting remotely by video conference.
   https://www.dropbox.com/s/1eraygvs520c2vo/PustejovskyKrishnaswamy2021DraftNew.pdf?dl=0
 - Pöldvere, N. (2019). [What’s in a dialogue? : On the dynamics of meaning-making in English conversation.](http://lup.lub.lu.se/record/3004710c-5d08-4069-9dc9-80544f9c3b49) Thesis/doccomp, Lund University. (suggested by Robin)
 - Sikos L, Venhuizen NJ, Drenhaus H, Crocker MW (2021) [Reevaluating pragmatic reasoning in language games.](https://doi.org/10.1371/journal.pone.0248388) PLoS ONE 16(3): e0248388. (suggested by Bill)
-- Julian Hough and Matthew Purver. 2017. Probabilistic record type lattices for incremental reference processing. In Modern Perspectives in Type-Theoretical Semantics, pages 189–222. Springer, Berlin. (recommended by Eleni)
+- Julian Hough and Matthew Purver. 2017. Probabilistic record type lattices for incremental reference processing. In Modern Perspectives in Type-Theoretical Semantics, pages 189–222. Springer, Berlin. (suggested by Eleni)
+- Franke, M., De Jager, T., & Van Rooij, R. (2012). Relevance in Cooperation and Conflict. Journal of Logic and Computation, 22(1), 23–54. https://doi.org/10.1093/logcom/exp070 (suggested by Ellen)
+Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan)
 
 
 ### Previous sessions:
