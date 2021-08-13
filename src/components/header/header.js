@@ -178,8 +178,8 @@ var menuData = [
         "hasSubmenu": false
       },
       {
-        "title": "PaM 2020",
-        "href": "https://sites.google.com/view/pam2020/home",
+        "title": "ReInAct",
+        "href": "https://sites.google.com/view/reinact2021/home",
         "linkToMDFile": false,
         "MDFileCustomID": null,
         "hasSubmenu": false
