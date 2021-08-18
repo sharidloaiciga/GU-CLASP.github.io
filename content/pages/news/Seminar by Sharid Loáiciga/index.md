@@ -5,7 +5,7 @@ bannerImage: "meeting-311355_1280.png"
 ---
 Cordially welcome to a seminar by Sharid Loáiciga on Wednesday 25th of August, at 13:15 online via Zoom.
 
-Title: "TBA"
+Title: "Annotating Anaphoric Phenomena in Situated Dialog"
 
 Abstract: "TBA"
 
