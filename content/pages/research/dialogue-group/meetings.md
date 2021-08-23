@@ -12,6 +12,9 @@ Currently meeting remotely by video conference.
 
 ### Upocoming session:
 
+#### 27 August 2021 \-- [13h-15h]
+Hough, J., & Purver, M. (2017). [Probabilistic Record Type Lattices for Incremental Reference Processing.](https://doi.org/10.1007/978-3-319-50422-3_8) In S. Chatzikyriakidis & Z. Luo (Eds.), Modern Perspectives in Type-Theoretical Semantics (Vol. 98, pp. 189–222). Springer International Publishing. (Led by Eleni and Staffan)
+
 ### Future paper suggestions:
 
 [Add a suggestion](https://github.com/GU-CLASP/GU-CLASP.github.io/edit/dev/content/pages/research/dialogue-group/meetings.md) (requires GitHub login)
@@ -29,10 +32,9 @@ Barwise, J., & Perry, J. (1998). Situations and Attitudes. (suggested by Staffan
 
 ### Previous sessions:
 
-#### 19 June 2021 \-- [13h-14h]
-Hough, J., Jamone, L., Schlangen, D., Walck, G., & Haschke, R. (n.d.). A Types-As-Classiﬁers Approach to Human-Robot Interaction for Continuous Structured State Classiﬁcation. 13.
+Probabilistic Record Type Lattices for Incremental Reference Processing
 
-#### 10 June 2021 \-- [10h-12h]
+#### 19 June 2021 \-- [13h-14h]
 Hough, J., Jamone, L., Schlangen, D., Walck, G., & Haschke, R. (n.d.). A Types-As-Classiﬁers Approach to Human-Robot Interaction for Continuous Structured State Classiﬁcation. 13.
 
 #### 28 May 2021 \-- [10h-12h]
