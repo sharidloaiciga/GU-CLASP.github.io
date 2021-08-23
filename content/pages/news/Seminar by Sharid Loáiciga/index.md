@@ -7,7 +7,7 @@ Cordially welcome to a seminar by Sharid Loáiciga on Wednesday 25th of August, 
 
 Title: "Annotating Anaphoric Phenomena in Situated Dialog"
 
-Abstract: "TBA"
+Abstract: "In recent years several corpora have been developed for vision and language tasks. However, there is still significant room for corpora that increase the complexity of both visual and linguistic domains and which capture different varieties. In this talk, I will present work extending the ARRAU (Uryupina et al., 2020) annotation scheme to account for the situated dialog genre. This annotation scheme covers a broad range of referential phenomena and is compatible with the textual task of coreference resolution. I will mention some of the open questions regarding the semantics of reference and annotation, but also the opportunities that such annotation offers."
 
 Time: 13.15-15.00
 
