@@ -1,6 +1,6 @@
 ---
 name: "Jenny Nilsson"
-role: 2 
+role: 5 
 title: "Administrator"
 profileImage: "Jenny.jpg"
 ---
