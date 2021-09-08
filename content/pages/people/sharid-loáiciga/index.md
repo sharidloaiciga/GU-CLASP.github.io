@@ -1,6 +1,6 @@
 ---
 name: "Sharid Loáiciga"
-role: 5 
-title: "Post-doc"
+role: 1 
+title: "Associate Director"
 ---
-Sharid Loáiciga was a Post-doc at CLASP (2018-2020). She is now at the University of Potsdam.
+Sharid Loáiciga was a Post-doc at CLASP (2018-2020). She is now the associate Director at CLASP.
