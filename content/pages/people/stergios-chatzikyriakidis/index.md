@@ -1,6 +1,6 @@
 ---
 name: "Stergios Chatzikyriakidis"
-role: 1 
+role: 5 
 title: "Associate Director and Researcher (Docent in Computational Linguistics) "
 profileImage: "stergios.jpg"
 ---
